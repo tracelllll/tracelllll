@@ -5,7 +5,7 @@
 ### WELCOME TO MY GITHUB/ PORTFOLIO
 
 #### I am Trace, and I have experience in Cyber Security with my 2025 Regional and National competitor for SkillsUSA achievement. I am also a contributor to TraceLabs where we digitally track down missing people using OSINT tools.
-#### I have a strong interest in other forms of hacking such as Lockpicking, Social Engineering, Forensics, and Network Security.
+#### I have a strong interest in other forms of hacking such as Lockpicking, Social Engineering, Forensics, and Network Security. I am also an avid Beta Tester for Software and Video Games alike.
 #### On this Github page, I will be sharing projects centered around my interests such as creating video game mods, networking tools, cyber security tool, and OSINT based bash scripts so you can automate your next cyber investigation. (Ethically Of Course)
 ---
 
