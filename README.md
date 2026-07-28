@@ -6,7 +6,7 @@
 
 #### I am Trace, and I have experience in Cyber Security with my 2025 Regional and National competitor for SkillsUSA achievement.
 #### I have a strong interest in other forms of hacking such as Lockpicking, Social Engineering, Forensics, and Network Security. I am also an avid Quality Assure (QA) Tester for Video Games and Computer Software alike.
-#### On this Github page, I will be sharing projects centered around my interests such as creating video game projects and mods, networking tools, cyber security tool, and OSINT based bash scripts so you can automate your next cyber investigation. (Ethically Of Course)
+#### On this Github page, I will be sharing projects centered around my interests such as creating networking tools, cyber security tool, and OSINT based bash scripts so you can automate your next cyber investigation. (Ethically Of Course)
 ---
 
 ### TOOLS, LANGUAGES, & RESOURCES I KNOW
