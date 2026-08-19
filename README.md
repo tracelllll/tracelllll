@@ -101,7 +101,9 @@
 
 2025 SkillsUSA, Regional Postsecondary (Gold) Winner in Cyber Security
 
-### MY CERTS/CTF EVENTS/COURSE COMPLETIONS
+---
+
+### MY CTF EVENTS/COURSE COMPLETIONS 
 <p>
     <!--SKILLSUSA REG. METAL-->
     <img height="300" width="300" src="https://raw.githubusercontent.com/tracelllll/tracelllll/refs/heads/main/KS_Easy_Cert.png" />
