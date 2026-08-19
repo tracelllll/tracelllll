@@ -100,3 +100,14 @@
     <img height="300" width="300" src="https://raw.githubusercontent.com/tracelllll/tracelllll/refs/heads/main/PXL_20250328_160523168_1747186082239.jpg" />
 
 2025 SkillsUSA, Regional Postsecondary (Gold) Winner in Cyber Security
+
+### MY CERTS & COURSE COMPLETIONS
+<p>
+    <!--SKILLSUSA REG. METAL-->
+    <img height="300" width="300" src="https://raw.githubusercontent.com/tracelllll/tracelllll/refs/heads/main/KS_Easy_Cert.png" />
+
+KASE SCENARIOS: ORKLA DRAGON CON DETECTIVE (CTF) [DIFFICULTY: EASY]
+
+<p>
+    This CTF was achieved with basic/entry-level OSINT knowledge. Using simple tools and strategies centered around geolocation research and locating public figures in a controlled environment. 
+</p>
