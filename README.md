@@ -109,5 +109,5 @@
 KASE SCENARIOS: ORKLA DRAGON CON DETECTIVE (CTF) [DIFFICULTY: EASY]
 
 <p>
-    This CTF was achieved with basic/entry-level OSINT knowledge. Using simple tools and strategies centered around geolocation research and locating public figures in a controlled environment. 
+    This online CTF was achieved with basic/entry-level OSINT knowledge. Using simple tools and strategies centered around geolocation research and locating public figures in a controlled environment. 
 </p>
